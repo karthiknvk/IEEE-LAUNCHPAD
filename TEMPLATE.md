@@ -11,13 +11,7 @@ Hello, I am Karthik Nambiar V K, a BCA graduate from Kannur University and a pas
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **TRIP PLANNER WEBSITE**  |Trip planner is an innovative website revolutionizes the 
-travel planning experience by providing users with a  
-convenient and user-friendly platform. Helping users  
-to refine their search by selecting preferred landscape.  
-Project addresses a significant need in the travel  
-industry by offering a centralized platform that  
-streamlines the trip planning journey for users.                                             | [Hosted Link 1]Not hosted   | [Repo Link 1]GitHub - karthiknvk/TRIPPLANNERWEBSITE-PROJECT             |
+| **TRIP PLANNER WEBSITE**  |Trip planner is an innovative website revolutionizes the travel planning experience by providing users with a convenient and user-friendly platform. Helping users  to refine their search by selecting preferred landscape.  Project addresses a significant need in the travel  industry by offering a centralized platform that streamlines the trip planning journey for users.                                             | [Hosted Link 1]Not hosted   | [Repo Link 1]GitHub - karthiknvk/TRIPPLANNERWEBSITE-PROJECT             |
 
 
 #### Leadership and Influence:
